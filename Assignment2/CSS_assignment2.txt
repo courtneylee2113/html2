@@ -1,0 +1,13 @@
+<style media="screen" type="text/css">
+body{
+background-image:url(NANAMI-COWDROY-41.jpg);    
+}
+p{
+font-family:Futura,Arial,Helvetica;
+font-size:16px;
+padding:6px;
+} 
+h1,h2{
+font:Futura,Arial,Helvetica;
+}
+</style>
